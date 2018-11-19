@@ -19,7 +19,7 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>Starting wires</td>
+    <td>Staring wires</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
