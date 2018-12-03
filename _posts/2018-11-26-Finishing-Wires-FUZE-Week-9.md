@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>Finishing wires FUZE WEEK 9</td>
     <td>Date</td>
-    <td>11/11/18</td>
+    <td>18/11/18</td>
   </tr>
 </table>
 
