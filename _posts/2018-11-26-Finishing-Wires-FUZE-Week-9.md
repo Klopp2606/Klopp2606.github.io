@@ -1,5 +1,5 @@
 ---
-title: Finishing Wires FUZE Week 19
+title: Finishing Wires FUZE Week 9
 layout: post
 author: eshaan.thakrar
 permalink: /finishing-wires-fuze-week-9/
