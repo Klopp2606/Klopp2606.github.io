@@ -1,5 +1,5 @@
 ---
-title: Finishing Wires FUZE Week 9
+title: Finishing Wires FUZE Week 19
 layout: post
 author: eshaan.thakrar
 permalink: /finishing-wires-fuze-week-9/
@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Robot arm FUZE WEEK 10</td>
+    <td>Finishing wires FUZE WEEK 9</td>
     <td>Date</td>
     <td>11/11/18</td>
   </tr>
@@ -28,7 +28,7 @@ published: true
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td> yes</td>
+    <td> no</td>
   </tr>
 </table>
 
@@ -49,7 +49,7 @@ published: true
   <tr>
     <td>I took a while posting my blog from the week before because I can't post it at home, but it did not show so I had to quickly change my script to correct my error, the error was just a wrong colour
 Also we were slow finishing the wires
-But made good progress on the robot arm</td>
+And failed to start robot arm</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
