@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Ending Wires FUZE WEEK 9</td>
+    <td>Robot arm FUZE WEEK 10</td>
     <td>Date</td>
-    <td>21/11/18</td>
+    <td>11/11/18</td>
   </tr>
 </table>
 
@@ -23,12 +23,12 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>Starting the alarm</td>
+    <td>Start Robot arm</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td> No</td>
+    <td> yes</td>
   </tr>
 </table>
 
@@ -54,7 +54,7 @@ Also we were slow finishing the wires</td>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>I will sort all this out at break later</td>
+    <td></td>
   </tr>
 </table>
 
