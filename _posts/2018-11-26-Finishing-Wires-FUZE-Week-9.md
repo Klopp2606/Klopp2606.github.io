@@ -41,20 +41,21 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td></td>
+    <td>We went methodically</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
     <td>I took a while posting my blog from the week before because I can't post it at home, but it did not show so I had to quickly change my script to correct my error, the error was just a wrong colour
-Also we were slow finishing the wires</td>
+Also we were slow finishing the wires
+But made good progress on the robot arm</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td></td>
+    <td>Sort out blog in break</td>
   </tr>
 </table>
 
